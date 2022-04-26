@@ -2,7 +2,7 @@
 Dialog and Localization Tools made with Unity for UWO cs4482
 
 ## Description
-In the game, click the pause button or press Esc on the top-right to change languages
+In the game, click the pause button on the top-right or press Esc to change languages
 
 To add dialog texts, use localization tool, which is the scriptable object Assets/Tools/Languages/Localization.asset
 
